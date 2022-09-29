@@ -1,0 +1,108 @@
+{
+  "users": {
+    "99da8b2e9735a34da6d2ac35": {
+      "name": "𝓑𝓸𝓹 𝓘𝓽",
+      "_id": "99da8b2e9735a34da6d2ac35",
+      "types": {
+        "work": {
+          "timestamp": 1556036510280
+        },
+        "crime": {
+          "timestamp": 1556036507992
+        },
+        "rob": {
+          "timestamp": 1556036543540
+        }
+      },
+      "money": 272
+    },
+    "381b0497b9a0a156ce14bc37": {
+      "name": "Bop It",
+      "_id": "381b0497b9a0a156ce14bc37",
+      "types": {
+        "rob": {
+          "timestamp": 1555698392954
+        }
+      },
+      "money": 0
+    },
+    "9cc08ba664ea125e35960ae6": {
+      "name": "Yoshi1229",
+      "_id": "9cc08ba664ea125e35960ae6",
+      "types": {
+        "rob": {
+          "timestamp": 1556036500475
+        },
+        "crime": {
+          "timestamp": 1556036529827
+        },
+        "work": {
+          "timestamp": 1556036659018
+        }
+      },
+      "money": 995
+    },
+    "90207dbb7ec533df151bbd00": {
+      "name": "kewl",
+      "_id": "90207dbb7ec533df151bbd00",
+      "types": {
+        "crime": {
+          "timestamp": 1556055309026
+        },
+        "work": {
+          "timestamp": 1556055315339
+        }
+      },
+      "money": 37
+    },
+    "0df93d5f4406909e98304265": {
+      "name": "gestugaa",
+      "_id": "0df93d5f4406909e98304265",
+      "types": {
+        "work": {
+          "timestamp": 1557529544826
+        },
+        "crime": {
+          "timestamp": 1557529557667
+        },
+        "rob": {
+          "timestamp": 1557529571216
+        }
+      },
+      "money": -62
+    },
+    "c629dec0b652f86a8c31a160": {
+      "name": "\\\\Asuritu/3\\Neko/Female\\Form: Normal//",
+      "_id": "c629dec0b652f86a8c31a160",
+      "types": {
+        "work": {
+          "timestamp": 1557529590358
+        },
+        "crime": {
+          "timestamp": 1557529610240
+        }
+      },
+      "money": 177
+    },
+    "cddcb157e25946ed2166b840": {
+      "name": "Fishing (Charsy)",
+      "_id": "cddcb157e25946ed2166b840",
+      "types": {
+        "work": {
+          "timestamp": 1557684014890
+        }
+      },
+      "money": 0
+    },
+    "baaeeea5273af6c2811b81f9": {
+      "name": "BachBot [^help]",
+      "_id": "baaeeea5273af6c2811b81f9",
+      "types": {
+        "crime": {
+          "timestamp": 1560276222239
+        }
+      },
+      "money": 965
+    }
+  }
+}
