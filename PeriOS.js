@@ -1,36 +1,3 @@
-// ==UserScript==
-// @name         Lolz MPP
-// @namespace    http://tampermonkey.net/
-// @version      0.1
-// @description  try to take over the world!
-// @author       You
-// @match        http://www.multiplayerpiano.com/*
-// @grant        none
-// ==/UserScript==
-
-// www.multiplayerpiano.com
-// Multiplayer Piano Mod/Bot - PeriOS
-// version 1.0 (uploaded 2017/03/06)
-// Created by Peripheral Assassin (Poland)
-// Script contains upgraded version of script.js and my scripts and no songs.
-// Features:
-// -records songs (full automatically)
-// -plays these songs
-// -collects informations about users
-// -and more!
-
-// How to install:
-// Block http:\\www.multiplayerpiano.com\script.js in your browser,
-// Paste this script into console (F12)
-
-// Bugs? Send e-mail to me - stachu3478@o2.pl
-
-// No songs while you get back? Type \reload !
-// \itball command is disabled temporary.
-// To put clients in other rooms, just click on the room list.
-// IMPORTMIDI section is deprecated. Use chooper100's MIDI importer and put generated files with upload buttom.
-//^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
 $(function() {
 
 	var test_mode = (window.location.hash && window.location.hash.match(/^(?:#.+)*#test(?:#.+)*$/i));
